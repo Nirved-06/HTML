@@ -1,0 +1,23 @@
+h1{
+    color:blue;
+}
+p{
+    font-size: 25px;
+}
+ button{
+    background-color: peachpuff;
+    color: brown;
+    padding: 10px 20px;
+    border-radius: 250px;
+    font-style: italic;
+}
+.mydiv{
+    background-color: aqua;
+    padding: 60px;
+    text-align: center;
+}
+.div2{
+    background-color: rgb(19, 232, 97);
+    font-size: 30px;
+    
+}
